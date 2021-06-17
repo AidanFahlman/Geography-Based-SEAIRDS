@@ -1,0 +1,3 @@
+/home/aidan/Geography-Based-SEAIRDS/CMakeFiles/rebuild_cache.dir
+/home/aidan/Geography-Based-SEAIRDS/CMakeFiles/edit_cache.dir
+/home/aidan/Geography-Based-SEAIRDS/CMakeFiles/pandemic-geographical_model.dir

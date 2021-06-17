@@ -1,0 +1,4 @@
+Cannot generate into C:\cygwin64\home\aidan\Geography-Based-SEAIRDS
+It is already used for project \home\aidan\Geography-Based-SEIRDS
+
+Please either delete it manually or select another generation directory
