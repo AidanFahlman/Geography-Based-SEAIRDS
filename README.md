@@ -10,7 +10,7 @@ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7088542/pdf/11430_2009_Article_44.p
 
 Documentation
 ----
-See the `Manual.docx` file located at the root of this repository, `Geographical SEIRDS COVID-19 Model.pdf`, and the README files in folders
+See the `Manual.docx` file located at the root of this repository, and the README files in folders
 
 Requirements
 ---
